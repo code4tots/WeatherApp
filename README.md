@@ -5,4 +5,4 @@ A simple weather application written in Java.
 I found a nice weather WSDL online, so I figured it might be cool
 to make a client that displays that information.
 
-[[pic1.png]]
+![[pic1.png]]
